@@ -1,6 +1,6 @@
 # why is my touchpad disabled
 
-[![why is my touchpad disabled](gett-detail.png)](https://github.com/techjunk0ie/why.is.my.touchpad.disabled/)
+[![why is my touchpad disabled](gett-detail.png)](https://computersolve.com/why-is-my-touchpad-disabled/)
 
 If your touchpad isn't working, it may be a result of a missing or out-of-date driver. Updating or reinstalling your touchpad drivers in Device Manager may help solve the problem. To open Device Manager, enter device manager in Search on the taskbar, then select Device Manager.
 
